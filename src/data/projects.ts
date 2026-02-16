@@ -18,5 +18,15 @@ export const projects: ZigZagEntry[] = [
     links: {
       github: "https://github.com/haydenchang/Video_Representation_Learning"
     }
+  },
+  {
+    title: "Investor AI",
+    description:
+      "Built a Retrieval-Augmented Generation (RAG) system that integrates quarterly earnings reports, real-time market data, and prominent investor positions to generate contextualized stock analysis.",
+    thumbnailSrc: "/placeholder-thumb.svg",
+    tags: ["RAG", "Finance", "LLM"],
+    links: {
+      github: "https://github.com/haydenchang/invest.AI"
+    }
   }
 ];
